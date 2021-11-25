@@ -1,0 +1,27 @@
+/* change size and center image */
+.foodpic {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* change all headers to be bold, centered, and 60px size */
+.header {
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+
+/* use id to change colors individually */
+#stuffing {
+    color: brown;
+}
+
+#greenbean {
+    color: green;
+}
+
+#sweetpotato {
+    color: orange;
+}
